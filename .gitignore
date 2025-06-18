@@ -29,3 +29,4 @@ fastlane/test_output
 *.moved-aside
 *.swp
 *~.nib
+*.xcuserdata/
