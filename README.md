@@ -1,10 +1,3 @@
-//
-//  Untitled.swift
-//  BullsEye
-//
-//  Created by khamzaev on 18.06.2025.
-//
-
 # 🎯 Bulls-Eye
 
 **Bulls-Eye** is a simple accuracy game for iOS, written in Swift. Your goal is to guess the number as close as possible to the target by moving the slider.

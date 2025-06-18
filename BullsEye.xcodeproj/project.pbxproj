@@ -8,10 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		F9375F1A2E01729500EAD92A /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F9375F192E01729500EAD92A /* WebKit.framework */; };
+		F9375F1C2E031B4900EAD92A /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = F9375F1B2E031B3D00EAD92A /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		F9375F192E01729500EAD92A /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
+		F9375F1B2E031B3D00EAD92A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		F9EA0B442DFC9A5000410044 /* BullsEye.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BullsEye.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -59,6 +61,7 @@
 		F9EA0B3B2DFC9A5000410044 = {
 			isa = PBXGroup;
 			children = (
+				F9375F1B2E031B3D00EAD92A /* README.md */,
 				F9EA0B462DFC9A5000410044 /* BullsEye */,
 				F9375F182E01729400EAD92A /* Frameworks */,
 				F9EA0B452DFC9A5000410044 /* Products */,
@@ -147,6 +150,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F9375F1C2E031B4900EAD92A /* README.md in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
