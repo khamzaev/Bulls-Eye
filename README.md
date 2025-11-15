@@ -1,4 +1,5 @@
 # 🎯 Bulls-Eye
+<img width="821" height="389" alt="image" src="https://github.com/user-attachments/assets/a02c6ef8-ed2c-4745-8b1a-ffd49d6f9b27" />
 
 **Bulls-Eye** is a simple accuracy game for iOS, written in Swift. Your goal is to guess the number as close as possible to the target by moving the slider.
 
